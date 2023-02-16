@@ -15,7 +15,7 @@ Rendering: Once you have determined which objects are visible, you will need to 
 Lighting: Finally, you will need to add lighting to your virtual world. This can be done using simple techniques, such as a single light source, or more advanced techniques, such as dynamic lighting and shadows.  
 ```
 
-# This project is purly implemented in web languages, i.e.:
+### This project is purly implemented in web languages, i.e.:
 HTML  
 CSS  
 JS  
