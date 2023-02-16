@@ -1,5 +1,5 @@
 # 2d_ray_casting
-2D raycasting is a popular technique used in many video games and simulations to create realistic-looking environments with dynamic lighting and shadows.  
+
 2D raycasting is a popular technique used in many video games and simulations to create realistic-looking environments with dynamic lighting and shadows. In this project, you will develop a 2D raycasting engine that can simulate a player moving through a virtual world, casting rays to determine what objects are visible and where shadows fall.
 
 The project can be broken down into several main tasks:  
@@ -14,3 +14,8 @@ Rendering: Once you have determined which objects are visible, you will need to 
   
 Lighting: Finally, you will need to add lighting to your virtual world. This can be done using simple techniques, such as a single light source, or more advanced techniques, such as dynamic lighting and shadows.  
 ```
+
+# This project is purly implemented in web languages, i.e.:
+HTML  
+CSS  
+JS  
