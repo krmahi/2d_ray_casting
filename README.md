@@ -21,3 +21,7 @@ HTML
 CSS  
 JS  
 ```
+![Screenshot 2023-12-04 192803](https://github.com/krmahi/2d_ray_casting/assets/114367518/c7daa47e-cb7a-40f5-bbd9-bb9a82725ec6)
+![Screenshot 2023-12-04 192753](https://github.com/krmahi/2d_ray_casting/assets/114367518/ebbb36a2-1606-4ad9-a0af-b8b0b07c2f47)
+![Screenshot 2023-12-04 192746](https://github.com/krmahi/2d_ray_casting/assets/114367518/ce848e3a-fd29-4331-bdd3-775cde57a2e9)
+
